@@ -1,7 +1,8 @@
 # Sauer-Morin-Assignment8 (*Sea For Yourself*)
 Our final project, a VR-based installation piece and digital audio workstation called *Sea For Yourself*, for ENSE 479 / CTCH 201 at the University of Regina.
 
-A demonstration can be found here: https://drive.google.com/file/d/1TzXwT9EC4ipE8qOkMZxBiNbHLEe5L9Fw/view?usp=sharing
+Demonstration of the overall experience: https://drive.google.com/file/d/1TzXwT9EC4ipE8qOkMZxBiNbHLEe5L9Fw/view?usp=sharing
+Demonstration of the DAW console: https://drive.google.com/file/d/1CDg4RGuzt4mCiNBVWFL1Z5tnmFiZ6es4/view?usp=sharing
 
 IMPORTANT: Download **Sauer-Morin-Assignment8** if you want to view the Unity project. If you only want to play through the experience, then you only need to download the **.exe** file, the **data** folder, and the **MonoBleedingEdge** folder.
 
