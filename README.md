@@ -3,7 +3,7 @@ Our final project, a VR-based installation piece and digital audio workstation c
 
 A demonstration can be found here: https://drive.google.com/file/d/1TzXwT9EC4ipE8qOkMZxBiNbHLEe5L9Fw/view?usp=sharing
 
-IMPORTANT: Download **Sauer-Morin-Assignment8** if you want to view the Unity project. If you want to play through the experience, then download the **.exe** file, the **data** folder, and the **MonoBleedingEdge** folder.
+IMPORTANT: Download **Sauer-Morin-Assignment8** if you want to view the Unity project. If you only want to play through the experience, then you only need to download the **.exe** file, the **data** folder, and the **MonoBleedingEdge** folder.
 
 # Details
 Inspired by the concepts of soundscapes, installations, and improvisation, we chose to build a three-dimensional listening environment in virtual reality (VR) with various in-home appliances, and manufacture an audio piece which amalgamates such appliances' sounds.
